@@ -1,0 +1,107 @@
+Server is ready to receive request on port : 9090
+
+serving client: ('127.0.0.1', 64552)
+client details :
+hostname :Dhanashri-PC
+No of bytes recevied from Client:549
+
+request header :
+
+fileName:blog.com
+httpMethod: GET
+fileServerName:blog.com
+File Present in Cache
+
+No of bytes recevied from Cache:2140
+
+connection closed for client :('127.0.0.1', 64552)
+
+serving client: ('127.0.0.1', 64659)
+client details :
+hostname :Dhanashri-PC
+No of bytes recevied from Client:606
+
+request header :
+
+fileName:yahoo.com
+httpMethod: GET
+fileServerName:yahoo.com
+File not present in the cache
+Creating socket on proxy server
+Host Name: yahoo.com
+Socket connected to port 80 of host
+GET http://yahoo.com HTTP/1.0
+
+No of bytes recevied from Server:176
+
+connection closed for client :('127.0.0.1', 64659)
+
+serving client: ('127.0.0.1', 64706)
+client details :
+hostname :Dhanashri-PC
+No of bytes recevied from Client:606
+
+request header :
+
+fileName:ndtv.com
+httpMethod: GET
+fileServerName:ndtv.com
+File not present in the cache
+Creating socket on proxy server
+Host Name: ndtv.com
+Socket connected to port 80 of host
+GET http://ndtv.com HTTP/1.0
+
+No of bytes recevied from Server:100
+
+connection closed for client :('127.0.0.1', 64706)
+
+serving client: ('127.0.0.1', 64708)
+client details :
+hostname :Dhanashri-PC
+No of bytes recevied from Client:692
+
+request header :
+
+fileName:ndtv.com
+httpMethod: GET
+fileServerName:ndtv.com
+File Present in Cache
+
+No of bytes recevied from Cache:100
+
+connection closed for client :('127.0.0.1', 64708)
+
+serving client: ('127.0.0.1', 64973)
+client details :
+hostname :Dhanashri-PC
+No of bytes recevied from Client:606
+
+request header :
+
+fileName:blog.com
+httpMethod: GET
+fileServerName:blog.com
+File Present in Cache
+
+No of bytes recevied from Cache:2140
+
+connection closed for client :('127.0.0.1', 64973)
+
+
+serving client: ('127.0.0.1', 60796)
+client details :
+hostname :Dhanashri-PC
+No of bytes recevied from Client:606
+
+
+request header :
+
+fileName:indexs.html
+httpMethod: GET
+fileServerName:indexs.html
+File Present in Cache
+
+No of bytes recevied from Cache:100
+
+connection closed for client :('127.0.0.1', 60796)
