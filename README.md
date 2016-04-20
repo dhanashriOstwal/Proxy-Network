@@ -1,5 +1,5 @@
 ### Proxy-Network
-Added a "Read Me.txt" file. Includes snapshots.
+Added a "Read Me.doc" file. Includes snapshots.
 
 ### References
 - http://stackoverflow.com/
